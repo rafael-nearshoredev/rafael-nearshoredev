@@ -11,4 +11,4 @@ rafael-nearshoredev/rafael-nearshoredev is a ✨ special ✨ repository because 
 You can click the Preview link to take a look at your changes.
 --->
 
-![Languages Used](https://raw.githubusercontent.com/rafael-nearshoredev/rafael-nearshoredev/main/language-stats.svg)
+![Rafaael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafael-nearshoredev&show_icons=true&theme=radical)
