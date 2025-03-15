@@ -10,3 +10,5 @@
 rafael-nearshoredev/rafael-nearshoredev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+![Languages Used](https://raw.githubusercontent.com/rafael-nearshoredev/rafael-nearshoredev/main/language-stats.svg)
